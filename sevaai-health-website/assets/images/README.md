@@ -1,0 +1,1 @@
+# Image assets\n\nThe current page uses CSS illustrations and inline styling, with no remote image dependencies. Add optimized, licensed images here if needed. `favicon.svg` is included. For social previews, add a 1200×630 `social-preview.png` and update the Open Graph URL in `index.html`.\n

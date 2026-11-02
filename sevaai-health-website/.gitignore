@@ -1,0 +1,1 @@
+# OS and editor files\n.DS_Store\nThumbs.db\ndesktop.ini\n.vscode/\n.idea/\n# local secrets/logs\n.env\n.env.*\n*.log\n*.tmp\n*.swp\n
